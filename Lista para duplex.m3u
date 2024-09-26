@@ -1,0 +1,86 @@
+#EXTM3U
+
+#EXTVLCOPT:http-referrer=https://bradmax.com
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live1/chunks_dvr.m3u8
+
+#EXTINF:-1,CR | Tigo Sports HD (GIT)
+http://45.4.85.75:8000/play/a03h/index.m3u8
+
+#EXTINF:-1,CR | Tigo Sports HD (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384100
+
+#EXTINF:-1,CR | Tigo Sports CR (MST)
+http://185.197.250.22:2095/masterTVGP/kgn8Mw4BpB/4622.m3u8
+
+#EXTINF:-1,CR | FUTV (MST)
+http://miarea.vip:8080/Masteertv2024New/CMyJ3AwKJUP8/49720
+
+#EXTINF:-1,CR | FUTV OPC 2 (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384096
+
+#EXTINF:-1,CR | T.D+ HD (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384098
+
+#EXTINF:-1,CR | T.D+2 HD (GAL)
+http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384099
+
+#EXTINF:-1,CR | USA Network (MST)
+http://208.82.61.118/innova/play.php?id=8971/playlist.m3u8
+
+#EXTINF:-1, USA Network OPC 2(MST)
+http://jaciptv.com:8080/live/MasterVip/t3UB63bFux/190773.ts
+
+#EXTINF:-1,AXN
+http://191.52.214.5:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,TNT
+http://181.78.105.146:8800/play/a060
+
+#EXTINF:-1,TNT Series 
+http://191.52.214.5:8000/play/a059/index.m3u8
+
+#EXTINF:-1,Warner Channel HD
+http://191.52.214.5:8000/play/a01u/index.m3u8
+
+#EXTINF:-1,ESPN 1 AR
+http://191.52.214.5:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,ESPN 2 AR
+http://191.52.214.5:8000/play/a027/index.m3u8
+
+#EXTINF:-1,ESPN 3 AR
+http://191.52.214.5:8000/play/a025/index.m3u8
+
+#EXTINF:-1,CR | Teletica canal 7 (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384485
+
+#EXTINF:-1,CR | Repretel 6 DRT http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/237958
+
+#EXTINF:-1,CR | Repretel canal 6 DRT(GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/601613
+
+#EXTINF:-1,CR | Repretel 6 HD (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384481
+
+#EXTINF:-1,CR | MULTIMEDIOS (DRT) https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=8dbwNHi4EvoZZnGrlmORCSEjKSuCa3Z3&sid=DUvjwhXlAi3zKvasXafftwif4ie2IZ2z&pid=3pEIJk8IU4eN6Ma4F1gtlKBlzyu2jtuV&an=screen&at=web-app&av=v6.0.58&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=936x527&without_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1,CR | MULTIMEDIOS (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/95184 
+
+#EXTINF:-1,CR | MULTIMEDIOS OPC 2 (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/235757
+
+#EXTINF:-1,CR | Repretel 11 (DRT) https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1,CR | Repretel 11 (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/384613
+
+#EXTINF:-1,CR | Repretel 11 (MST) http://208.82.61.127:1234/stream/mix/repretel11/master.m3u8
+
+#EXTINF:-1,CR | CANAL 13 SINART (DRT) https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8?sec=d--eDL8qBlBtbB2qpF5QhUtOPVmAuyDcrTCJu4dmNN37v68LTcW0tnwDinmBDEVY&dmTs=583685&dmV1st=f183baf3-6286-4eb6-9441-f025474c4862
+#EXTINF:-1,CR | CANAL 13 SINART (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/286852
+#EXTINF:-1,CR | TVN Canal 14 (DRT) https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w857300240.m3u8
+
+#EXTINF:-1,CR | TVN Canal 14 (GAL) http://galaxypro.online:8080/PFvb52FQZLtV/Fvw3M295NVar/237928
+
+#EXTINF:-1,CR | ExtremaTV https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,CR | Trivisión canal 36 (DRT) https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1,CR | OPA https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w215971633.m3u8
+
+#EXTINF:-1, Tv Azteca (DRT) https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8
